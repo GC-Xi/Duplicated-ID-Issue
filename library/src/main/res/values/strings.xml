@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Resource ID</string>
-    <string name="hello">Hello App</string>
+    <string name="hello">Hello From Library</string>
 </resources>
