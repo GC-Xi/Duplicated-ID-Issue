@@ -1,1 +1,11 @@
-<manifest package="com.xizz.library" />
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.xizz.library"
+    >
+
+    <application>
+        <activity android:name=".LibActivity" />
+    </application>
+
+</manifest>
